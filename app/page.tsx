@@ -467,7 +467,7 @@ export default function Home() {
           </article>
           <article className="rounded-2xl border border-line bg-panel p-5 lg:col-span-3">
             <Image
-              src="https://ghchart.rshah.org/2dd4bf/georgekarugu"
+              src="https://github.com/georgekarugu?tab=overview&from=2026-03-01&to=2026-03-12"
               alt="GitHub contribution activity"
               width={980}
               height={220}
